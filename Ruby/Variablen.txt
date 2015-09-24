@@ -17,5 +17,5 @@ Integer (ganze Zahl, Fixnum)
 
 Float (Kommazahl)
 	komma_zahl = 13.44
-	#'.' as trennzeichen der kommazahl
+	#'.' as trennzeichen der kommazahl.
 
