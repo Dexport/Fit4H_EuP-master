@@ -49,6 +49,12 @@ puts player1      #gibt bei vorhandenem to_s automatisch die to_s Methode aus, s
 
 playerss = [player1, player2]
 
-	playerss.each do [var]
+	playerss.each do |var|
+		var.blam
 		puts var
 	end	
+
+playerss.size.times do |i| #auflistung von platz 0 bis n
+	puts i.to_s
+	puts playerss[i]
+end

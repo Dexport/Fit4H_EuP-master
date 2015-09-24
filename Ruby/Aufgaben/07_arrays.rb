@@ -37,5 +37,11 @@
 
 # i. Geben Sie Player mit einer Iteration über das Array aus. Beginnen Sie mit einer Zeile, in der sie die Anzahl der Mitspieler notieren
 
-	
+	playerss = [player1, player2]
+
+	playerss.each do [var]
+		puts var
+	end	
+
+
 	#strg + c = abbruch
