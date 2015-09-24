@@ -46,3 +46,9 @@ puts player1.blam
 puts player2.w00t
 puts player1.health
 puts player1      #gibt bei vorhandenem to_s automatisch die to_s Methode aus, steht hierarchisch über dem eigentlichen befehl, hier:"player1"
+
+playerss = [player1, player2]
+
+	playerss.each do [var]
+		puts var
+	end	

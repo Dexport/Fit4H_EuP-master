@@ -20,6 +20,8 @@
 
 # e. ermitteln Sie mit Hilfe von ri, wie join Ihnen bei einer folgendermassen formatierten Ausgabe behilflich sein kann: Sommer und Herbst und Winter
 
+	Jahreszeiten.join(" und ")
+
 # f. notieren Sie den Befehl
 
 	ri Array.join
@@ -36,3 +38,4 @@
 # i. Geben Sie Player mit einer Iteration über das Array aus. Beginnen Sie mit einer Zeile, in der sie die Anzahl der Mitspieler notieren
 
 	
+	#strg + c = abbruch
