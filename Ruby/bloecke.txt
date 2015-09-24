@@ -1,0 +1,6 @@
+Ein Befehl soll mehrfach ausgeführt werden.
+
+	3.times do
+		puts str
+	end
+	#Ein Block beginnt mit "do" und endet mit "end"!
