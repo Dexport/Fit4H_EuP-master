@@ -1,5 +1,5 @@
 1.Consolenhilfe
 ri string.center
-	Bei der Installation von Ruby wird eine Hilfe mitinstalliert, die mit ri Klassennamen.Methodenname auf der Linuxkonsole aufgerufen wird.
+	Bei der Installation von Ruby wird eine Hilfe mitinstalliert, die mit ri Klassennamen.Methodenname auf der Linuxkonsole aufgerufen wird..
 
 	
