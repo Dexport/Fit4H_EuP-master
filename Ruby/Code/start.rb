@@ -22,3 +22,5 @@ end
 
 als = "Die Woche besteht aus:\n\tMontag\n\tDienstag."
 puts als
+
+3.times {puts str}
